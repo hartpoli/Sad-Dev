@@ -2,3 +2,8 @@
 console.log("first hello")
 console.log("second hello") // 2nd time!
 
+function main() {
+
+return null;
+  
+}
